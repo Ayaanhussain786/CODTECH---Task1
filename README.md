@@ -30,3 +30,8 @@ The objective of this project is to create a quiz game that presents multiple-ch
 5. **End of Quiz:**
    - Display the user's total score once all questions are answered.
    - Consider adding a "Play Again" option.
+  
+![Screenshot 2024-07-20 194144](https://github.com/user-attachments/assets/696956f5-2086-4f4d-8076-749e9baff940)
+![Screenshot 2024-07-20 194201](https://github.com/user-attachments/assets/38035920-c837-4ffc-a8eb-027addefa0ef)
+![Screenshot 2024-07-20 194227](https://github.com/user-attachments/assets/b74434d7-849e-4a60-82c5-9d45618603cb)
+![Screenshot 2024-07-20 194241](https://github.com/user-attachments/assets/ca0ef839-5659-4930-874e-80497f207be9)
